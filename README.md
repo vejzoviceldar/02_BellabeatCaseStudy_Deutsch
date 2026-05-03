@@ -57,7 +57,7 @@ Zudem wurde deutlich, dass hochintensive Aktivitäten mehr Kalorien verbrennen u
 
 ---
 
-Obwohl Fitbit Nutzer generell Schwierigkeiten mit Motivation haben, zeigen die Daten klar, dass der frühe Abend und Samstage die motivierendsten Zeiten für Aktivität sind. Außerdem bieten hochintensive Workouts eine zeiteffiziente Lösung, was gezielt genutzt werden kann, um die Ziele von Bellabeat zu unterstützen.  
+Obwohl Fitbit Nutzer generell Schwierigkeiten mit Motivation haben, zeigen die Daten klar, dass der frühe Abend und Samstage die motivierendsten Zeiten für Aktivität sind.  Außerdem bieten hochintensive Workouts eine zeiteffiziente Lösung, was gezielt genutzt werden kann, um die Ziele von Bellabeat zu unterstützen.  
 Basierend auf diesen Insights empfehle ich folgende strategische Maßnahmen:  
 1. Hochintensive Aktivitäten in Kampagnen hervorheben, um Zeiteffizienz und gesundheitliche Vorteile zu betonen
 2. Einführung eines wöchentlichen **Challenge-Reward-Programms** mit Anreizen von **10–20%** Rabatt auf Bellabeat-Produkte oder Mitgliedschaften
